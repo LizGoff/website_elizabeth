@@ -2387,6 +2387,7 @@
 
 		.image.flush {
 			margin: 0 !important;
+			background: rgba(0, 0, 0, 0.300);
 		}
 
 		.image img {
